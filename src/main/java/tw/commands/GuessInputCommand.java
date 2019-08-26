@@ -20,3 +20,5 @@ public class GuessInputCommand {
         return bufferedReader.readLine();
     }
 }
+
+
